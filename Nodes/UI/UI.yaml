@@ -234,7 +234,6 @@ Children:
   - Name: Height
     Type: BaseDataVariableType
     DataType: Size
-    ModellingRule: Optional
     Value: 1080.0
   - Name: Caption
     Type: BaseDataVariableType
