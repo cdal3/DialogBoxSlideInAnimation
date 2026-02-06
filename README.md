@@ -12,7 +12,7 @@ The following sample project can be opened with or without FacotoryTalk Optix St
 4. Open the **.optix** file
 
 # Introduction
-The following sample project demonstrates how create a slide in/out animation on a Dialog Box.
+The following sample project demonstrates how to create a slide in/out animation on a Dialog Box.
 
 ![DemoGif](https://github.com/cdal3/DialogBoxSlideInAnimation/blob/main/ProjectFiles/DialogBoxSlideInAnimation.gif)
 
